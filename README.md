@@ -14,6 +14,7 @@
 ## 목차
 
  ### 📡 [[해커톤/ML] ETRI·KT AI 해커톤 최우수상 — 무선트래픽 예측 (시계열)](https://github.com/Na-Jiwon/network-hackathon/tree/main/wireless-traffic-prediction)
+ * [`[해커톤/ML] ETRI·KT AI 해커톤 최우수상 — 무선트래픽 예측 (시계열)`](#무선트래픽-예측)
 
    * 학습·테스트 기지국이 물리적으로 다른 일반화 문제.
    * PA 기반 기지국 선별 · VIF 피처 정제 · XGB+LGBM 앙상블로 MAE 0.3990 (6위/59팀).
