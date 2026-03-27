@@ -13,7 +13,7 @@
 
 ## 목차
 
-* [`[해커톤/NLP] ETRI·KT AI 해커톤 최우수상 — 장애경보 분류 (텍스트분류)`](https://github.com/Na-Jiwon/network-hackathon/tree/main/fault-alarm-classification)
+* [`[해커톤/시계열] ETRI·KT AI 해커톤 최우수상 — 무선 트래픽 예측 (시계열예측)`](https://github.com/Na-Jiwon/network-hackathon/tree/main/wireless-traffic-prediction)
    * 학습·테스트 기지국이 물리적으로 다른 일반화 문제.
    * PA 기반 기지국 선별 · VIF 피처 정제 · XGB+LGBM 앙상블로 MAE 0.3990 (6위/59팀).
    * 기술스택: XGBoost, LightGBM, Optuna, Python
